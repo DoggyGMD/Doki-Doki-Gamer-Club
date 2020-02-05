@@ -125,3 +125,4 @@ label story:
     show yuri 1h at t42
     show sayori 1o at t41
     s "Guys! Stop Fighting!"
+    "Weed"
